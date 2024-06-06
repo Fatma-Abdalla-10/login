@@ -1,0 +1,12 @@
+body{
+    background-color: #23343D;
+}
+h1 {
+    color: #17a2b8;
+    font-size: 2.5rem;
+  
+}
+
+.group {
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
